@@ -1,5 +1,5 @@
--- Made By: <trus.dev> | Roblox: <localdih>
--- Demo Turret Build
+-- made by trus.dev on discord and localdih on roblox
+-- demo turret system
 
 --SERVICES----------------------------------------------------------------------------
 local Players = game:GetService("Players")
